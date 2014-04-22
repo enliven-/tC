@@ -1,0 +1,50 @@
+student
+  name
+
+
+
+
+
+teacher
+  name
+
+
+
+class
+  name
+
+
+
+
+
+
+assignment
+  label
+
+
+grade
+  class_id
+  assignment_id
+  teacher_id
+  student_id
+
+
+
+
+event
+  event_type
+  creater
+  date
+
+
+student_registration
+  student_id
+  class_id
+
+
+class_teacher
+  class_id
+  teacher_id
+
+
+
